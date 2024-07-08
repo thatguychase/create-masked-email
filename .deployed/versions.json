@@ -1,0 +1,18 @@
+[
+  {
+    "apihost": "https://faas-nyc1-2ef2e6cc.doserverless.co",
+    "namespace": "fn-6f4fa025-e8a1-4775-8c86-3e1f10999a14",
+    "packageVersions": {
+      "caramelbeard": {
+        "version": "0.0.27",
+        "digest": "8e7683bcb3fa284f7bcb4877acaa2f44a90d902e9b99b6a8398f1613c9ca60c6"
+      }
+    },
+    "actionVersions": {
+      "caramelbeard/fastmask": {
+        "version": "0.0.28",
+        "digest": "c8a34e8aa65be921a508de8d7ef851383f3d9d2ff9d17100b6fa47f4cd21f3fc"
+      }
+    }
+  }
+]

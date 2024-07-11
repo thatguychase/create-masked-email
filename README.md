@@ -10,3 +10,5 @@ To deploy, follow DigitalOcean's deployment guide [here](https://docs.digitaloce
 
 ## Acknowledgement
 This code relies heavily on the work of Hudson Bailey and his [fastmask](https://github.com/hdb/fastmask) FastMail Masked Email library.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=db9cb7e53cde&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
